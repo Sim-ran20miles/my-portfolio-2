@@ -1,0 +1,29 @@
+h1{
+    color:rgb(255, 255, 255)
+}
+*{
+
+}
+
+.header h1{
+    background-color: darkolivegreen;
+    display:flex;
+    justify-content: center;
+}
+.header a{
+    background-color: darkolivegreen;
+    display:flex;
+    justify-content:space-evenly;
+    color:rgb(255, 255, 255);
+}
+
+.apps{
+    background-color: rgb(255, 255, 255);
+    display:flex;
+    justify-content: center;
+}
+
+.info{
+    background-color: aliceblue
+    ;
+}
